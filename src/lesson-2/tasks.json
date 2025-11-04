@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Set up project",
+    "description": "Initialize repository and tooling",
+    "createdAt": "2025-11-01T10:00:00.000Z",
+    "status": "done",
+    "priority": "high",
+    "deadline": "2025-11-01T18:00:00.000Z",
+    "completedAt": "2025-11-01T16:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Define types",
+    "description": "Create Task, Status, Priority",
+    "createdAt": "2025-11-02T09:00:00.000Z",
+    "priority": "medium",
+    "deadline": "2025-11-05T18:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Write constants",
+    "description": "Default values and allowed sets",
+    "createdAt": "2025-11-02T10:00:00.000Z",
+    "status": "in_progress",
+    "deadline": "2025-11-06T12:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Validation utility",
+    "createdAt": "2025-11-02T12:00:00.000Z",
+    "priority": "low"
+  },
+  {
+    "id": 5,
+    "title": "CRUD functions",
+    "description": "Create, read, update, delete",
+    "createdAt": "2025-11-03T08:30:00.000Z",
+    "status": "todo",
+    "priority": "high",
+    "deadline": "2025-11-10T23:59:59.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Filtering",
+    "description": "Filter by status, date, priority",
+    "createdAt": "2025-11-03T09:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "title": "Deadline check",
+    "description": "Check completion before deadline",
+    "createdAt": "2025-11-03T10:00:00.000Z",
+    "status": "done",
+    "priority": "medium",
+    "deadline": "2025-11-08T18:00:00.000Z",
+    "completedAt": "2025-11-07T18:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "title": "Docs",
+    "description": "Write README",
+    "createdAt": "2025-11-04T08:00:00.000Z",
+    "priority": "low",
+    "deadline": "2025-11-12T12:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "title": "Refactor",
+    "description": "Improve code structure",
+    "createdAt": "2025-11-04T09:00:00.000Z",
+    "status": "in_progress",
+    "priority": "high"
+  },
+  {
+    "id": 10,
+    "title": "Release",
+    "description": "Prepare release notes",
+    "createdAt": "2025-11-04T11:00:00.000Z",
+    "deadline": "2025-11-15T23:59:59.000Z"
+  }
+]

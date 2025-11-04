@@ -1,0 +1,19 @@
+{
+  "name": "lesson-1-ts-node",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/lesson-1/index.js",
+    "start:lesson-1": "node dist/lesson-1/index.js",
+    "dev": "ts-node src/lesson-1/index.ts",
+    "dev:lesson-1": "ts-node src/lesson-1/index.ts",
+    "start:lesson-2": "node dist/lesson-2/index.js",
+    "dev:lesson-2": "ts-node src/lesson-2/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
